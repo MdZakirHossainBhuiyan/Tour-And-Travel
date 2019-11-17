@@ -18,6 +18,10 @@
 	}
 ?>
 
+<?php
+	echo "This is visual studio";
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
